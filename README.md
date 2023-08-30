@@ -39,11 +39,13 @@ Es altamente recomendado leer primero el script y personalizarlo, de lo contrari
 Estos scripts estan hechos para poder instalar archlinux y gentoo, respectivamente, solo hay que clonar el repositorio, leer, mover al home del live el dirtectorio de los scripts y ejecutar.
 
 Archlinux, basado en la documentacion de archlinux, con claras modificaciones.
+https://wiki.archlinux.org/title/Installation_guide
 
     - $ ./base.sh
         - correr ./base.sh para installar archlinux
 
 Gentoo, basado en el handbook de gentoo, con muy pocas modificaciones.
+https://wiki.gentoo.org/wiki/Handbook:AMD64
 
     - $ ./install.sh
         - correr ./install.sh para installar archlinux
