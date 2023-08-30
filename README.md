@@ -35,6 +35,9 @@ No se recomienda su uso a menos que sepas exactamente que estas haciendo, puedes
 
 Es altamente recomendado leer primero el script y personalizarlo, de lo contrario puede no funcionar, para facilitar el agregar y quitar configuraciones el script esta modularizado y por dentro todo esta ordenado en funciones.
 
+#### Uso de los scripts
+Estos scripts estan hechos para poder installar archlinux y gentoo, respectivamente, solo hay que clonar el repositorio, leer, mover al home del live el dirtectorio de los scripts y ejecutar.
+
 Archlinux, basado en la documentacion de archlinux, con claras modificaciones.
 
     - ./base.sh
